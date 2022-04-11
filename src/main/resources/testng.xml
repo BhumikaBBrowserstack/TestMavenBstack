@@ -1,0 +1,7 @@
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<packages>
+			<class name="com.maven.test.*" />
+		</packages>
+	</test>
+</suite>
